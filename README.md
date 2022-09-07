@@ -15,5 +15,6 @@
 ## Set Up
 
 1. Clone repo and execute `npm install` to install deps.
-2. Launch the project by executing `npm run start`.
-3. Visit your app by navigating Chrome/Firefox to `http://localhost:3000`.
+2. Sign up for a free API key at `https://home.openweathermap.org/users/sign_up`
+3. Launch the project by executing `npm run start`.
+4. Visit your app by navigating Chrome/Firefox to `http://localhost:3000`.
